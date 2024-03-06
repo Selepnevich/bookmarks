@@ -172,6 +172,20 @@ ul.messages li a.close {
     float:left;
 }
 
+#logout-form {
+    display: inline;
+}
+
+
+#logout-form button {
+    padding: 0;
+    color: #fff;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
 /* social-auth */
 .social {
     float:right;
